@@ -24,6 +24,7 @@ gem 'coffee-rails', '~> 4.2'
 gem 'devise'
 gem 'activeadmin', github: 'activeadmin'
 gem 'inherited_resources', github: 'activeadmin/inherited_resources'
+gem 'chartkick'
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
